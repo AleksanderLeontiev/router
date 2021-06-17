@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "noEmitOnError": true,
+    "target": "ES2015",
+    "module": "commonjs",
+    "sourceMap": true,
+    "strict": true,
+    "noImplicitAny": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}
